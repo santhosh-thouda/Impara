@@ -1,4 +1,4 @@
-# LearnHub - E-Learning App (Flutter)
+# Impara - Online Learning App (Flutter)
 
 **Unlock Your Potential: A Feature-Rich E-Learning Experience for Mobile and Web**
 
